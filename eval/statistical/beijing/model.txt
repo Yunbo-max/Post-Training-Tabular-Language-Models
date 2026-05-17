@@ -1,0 +1,7 @@
+wasserstein=0.3545
+mmd=0.099386
+jsd=0.2362
+nndr=0.9973
+dcr_mean=4.0454
+dcr_median=4.0392
+dcr_5th=4.0131

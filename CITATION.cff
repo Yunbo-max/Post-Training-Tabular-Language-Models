@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying paper."
+title: "Post-Training for Tabular Language Models"
+abstract: >
+  Reference implementation of TabGRAA, an iterative reward-guided
+  post-training framework for tabular language-model generators.
+authors:
+  - name: "Anonymous Authors"
+year: 2026
+license: MIT
